@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/himanshu-portfolio/static/css/main.bd6c5e3f.css",
-    "main.js": "/himanshu-portfolio/static/js/main.8f06eb68.js",
+    "main.js": "/himanshu-portfolio/static/js/main.5f1db664.js",
     "static/js/453.b05d33bc.chunk.js": "/himanshu-portfolio/static/js/453.b05d33bc.chunk.js",
     "static/media/Metromony.png": "/himanshu-portfolio/static/media/Metromony.ac2aa70bd700601708cb.png",
     "static/media/List-match.png": "/himanshu-portfolio/static/media/List-match.1ab07b02dd9ef9867d15.png",
     "index.html": "/himanshu-portfolio/index.html",
     "main.bd6c5e3f.css.map": "/himanshu-portfolio/static/css/main.bd6c5e3f.css.map",
-    "main.8f06eb68.js.map": "/himanshu-portfolio/static/js/main.8f06eb68.js.map",
+    "main.5f1db664.js.map": "/himanshu-portfolio/static/js/main.5f1db664.js.map",
     "453.b05d33bc.chunk.js.map": "/himanshu-portfolio/static/js/453.b05d33bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd6c5e3f.css",
-    "static/js/main.8f06eb68.js"
+    "static/js/main.5f1db664.js"
   ]
 }
